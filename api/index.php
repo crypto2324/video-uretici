@@ -256,6 +256,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_GET['action'] ?? '') === 'script
 
     $('topic').addEventListener('keydown', e => { if (e.key === 'Enter') $('go-btn').click(); });
 })();
+    <link>https://github.com/crypto2324/video-uretici</link>
 </script>
 </body>
 </html>
